@@ -1,3 +1,3 @@
 # testgithub
 <br>
-This is a test github repo
+This is a test github repository.
